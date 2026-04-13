@@ -1,0 +1,35 @@
+﻿Id_employe;Age;Anciennete;Education;Enfant;Buveur_social;Fumeur_social;Animal_domestique
+11;Adulte;Expérimenté;Lycée;Deux enfants;Oui;Non;Un animal
+36;Senior;Expérimenté;Lycée;Un enfant;Oui;Non;Aucun animal
+3;Mature;Expérimenté;Lycée;Aucun enfant;Oui;Non;Aucun animal
+7;Mature;Expérimenté;Lycée;Deux enfants;Oui;Oui;Aucun animal
+10;Adulte;Débutant;Lycée;Un enfant;Oui;Non;Quatre animaux ou plus
+20;Mature;Expérimenté;Lycée;Quatre enfants ou plus;Oui;Non;Aucun animal
+14;Adulte;Expérimenté;Lycée;Deux enfants;Oui;Non;Aucun animal
+1;Mature;Expérimenté;Master;Un enfant;Non;Non;Un animal
+24;Mature;Expérimenté;Lycée;Aucun enfant;Oui;Non;Aucun animal
+6;Adulte;Expérimenté;Lycée;Deux enfants;Non;Non;Deux animaux
+33;Senior;Expérimenté;Lycée;Deux enfants;Non;Non;Un animal
+18;Adulte;Débutant;Licence;Aucun enfant;Non;Non;Aucun animal
+30;Adulte;Intermédiaire;Lycée;Aucun enfant;Oui;Oui;Aucun animal
+2;Senior;Expérimenté;Lycée;Un enfant;Non;Oui;Non renseigné
+19;Adulte;Expérimenté;Lycée;Aucun enfant;Oui;Non;Aucun animal
+27;Adulte;Intermédiaire;Lycée;Aucun enfant;Non;Non;Aucun animal
+34;Mature;Intermédiaire;Lycée;Aucun enfant;Non;Non;Aucun animal
+5;Mature;Expérimenté;Lycée;Un enfant;Oui;Non;Aucun animal
+15;Mature;Expérimenté;Lycée;Un enfant;Oui;Non;Un animal
+29;Adulte;Intermédiaire;Lycée;Un enfant;Non;Non;Deux animaux
+28;Adulte;Intermédiaire;Lycée;Un enfant;Non;Non;Deux animaux
+13;Adulte;Expérimenté;Lycée;Trois enfants;Oui;Non;Aucun animal
+22;Adulte;Intermédiaire;Master;Aucun enfant;Non;Non;Aucun animal
+17;Mature;Expérimenté;Licence;Deux enfants;Non;Oui;Aucun animal
+31;Senior;Intermédiaire;Lycée;Aucun enfant;Non;Non;Aucun animal
+23;Mature;Expérimenté;Lycée;Deux enfants;Non;Oui;Quatre animaux ou plus
+32;Senior;Senior;Lycée;Aucun enfant;Non;Non;Deux animaux
+9;Senior;Expérimenté;Lycée;Deux enfants;Non;Non;Un animal
+26;Mature;Expérimenté;Lycée;Deux enfants;Oui;Oui;Un animal
+21;Adulte;Intermédiaire;Licence;Aucun enfant;Non;Non;Aucun animal
+8;Mature;Expérimenté;Lycée;Deux enfants;Oui;Non;Deux animaux
+25;Adulte;Intermédiaire;Master;Aucun enfant;Non;Non;Aucun animal
+12;Adulte;Débutant;Licence;Un enfant;Oui;Non;Non renseigné
+16;Senior;Senior;Lycée;Deux enfants;Oui;Oui;Aucun animal

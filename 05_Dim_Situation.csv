@@ -1,0 +1,35 @@
+﻿Poids;Taille;Indice_masse_corporelle;Frais_transport;Distance_domicile_travail;Charge_travail_jour;Atteinte_objectif;Echec_disciplinaire;Id_situation
+Lourd;Grande;Obésité;Élevé;Longue;239.6;Excellente;Non;11_situation
+Très lourd;Grande;Obésité;Faible;Moyenne;239.6;Excellente;Oui;36_situation
+Lourd;Moyenne;Obésité;Moyen;Très longue;239.6;Excellente;Non;3_situation
+Normal;Moyenne;Poids normal;Élevé;Courte;239.6;Excellente;Non;7_situation
+Lourd;Grande;Surpoids;Très élevé;Très longue;239.6;Excellente;Non;10_situation
+Normal;Moyenne;Poids normal;Élevé;Très longue;239.6;Excellente;Non;20_situation
+Très lourd;Très grande;Surpoids;Moyen;Moyenne;239.6;Excellente;Non;14_situation
+Lourd;Grande;Surpoids;Moyen;Moyenne;239.6;Excellente;Non;1_situation
+Normal;Moyenne;Poids normal;Moyen;Moyenne;239.6;Excellente;Non;24_situation
+Normal;Moyenne;Surpoids;Moyen;Longue;239.6;Excellente;Non;6_situation
+Lourd;Moyenne;Obésité;Moyen;Moyenne;205.9;Bonne;Non;33_situation
+Lourd;Très grande;Surpoids;Élevé;Moyenne;205.9;Bonne;Non;18_situation
+Normal;Très grande;Poids normal;Moyen;Longue;205.9;Bonne;Non;30_situation
+Lourd;Moyenne;Obésité;Moyen;Longue;205.9;Bonne;Non;2_situation
+Normal;Moyenne;Poids normal;Élevé;Très longue;205.9;Bonne;Non;19_situation
+Léger;Moyenne;Poids normal;Moyen;Très longue;241.5;Bonne;Non;27_situation
+Lourd;Grande;Surpoids;Faible;Courte;241.5;Bonne;Non;34_situation
+Très lourd;Moyenne;Obésité;Moyen;Moyenne;241.5;Bonne;Non;5_situation
+Normal;Grande;Surpoids;Élevé;Longue;241.5;Bonne;Non;15_situation
+Normal;Moyenne;Poids normal;Moyen;Longue;241.5;Bonne;Oui;29_situation
+Normal;Moyenne;Poids normal;Moyen;Longue;241.5;Bonne;Non;28_situation
+Normal;Moyenne;Surpoids;Très élevé;Moyenne;241.5;Bonne;Oui;13_situation
+Léger;Grande;Poids normal;Moyen;Longue;253.5;Bonne;Non;22_situation
+Normal;Moyenne;Poids normal;Moyen;Moyenne;306.3;Bonne;Non;17_situation
+Lourd;Grande;Poids normal;Très élevé;Moyenne;302.6;Excellente;Non;31_situation
+Normal;Grande;Poids normal;Très élevé;Très longue;326.5;Excellente;Non;23_situation
+Très lourd;Grande;Obésité;Élevé;Très longue;377.6;Bonne;Non;32_situation
+Normal;Grande;Poids normal;Moyen;Moyenne;265.6;Bonne;Non;9_situation
+Lourd;Grande;Surpoids;Élevé;Longue;265.6;Bonne;Non;26_situation
+Lourd;Grande;Surpoids;Élevé;Moyenne;265.6;Bonne;Non;21_situation
+Très lourd;Moyenne;Obésité;Moyen;Longue;294.2;Moyenne;Oui;8_situation
+Normal;Grande;Surpoids;Moyen;Moyenne;284.9;Bonne;Non;25_situation
+Normal;Grande;Poids normal;Moyen;Très longue;280.5;Excellente;Non;12_situation
+Normal;Grande;Surpoids;Faible;Moyenne;222.2;Excellente;Non;16_situation

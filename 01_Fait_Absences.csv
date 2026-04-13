@@ -1,0 +1,684 @@
+﻿Id_employe;Id_temps;Id_motif;Id_situation;Temps_absence_heures
+11;Juillet_Printemps;Raison familiale;11_situation;4
+36;Juillet_Printemps;Aucune absence;36_situation;0
+3;Juillet_Printemps;Maladie générale;3_situation;2
+7;Juillet_Printemps;Maladie générale;7_situation;4
+11;Juillet_Printemps;Maladie générale;11_situation;2
+3;Juillet_Printemps;Maladie générale;3_situation;2
+10;Juillet_Printemps;Examen médical;10_situation;8
+20;Juillet_Printemps;Maladie générale;20_situation;4
+14;Juillet_Printemps;Mariage;14_situation;40
+1;Juillet_Printemps;Examen médical;1_situation;8
+20;Juillet_Printemps;Maladie infectieuse;20_situation;8
+20;Juillet_Printemps;Maladie infectieuse;20_situation;8
+20;Juillet_Printemps;Examen médical;20_situation;8
+3;Juillet_Printemps;Examen médical;3_situation;1
+3;Juillet_Printemps;Maladie générale;3_situation;4
+24;Juillet_Printemps;Hospitalisation;24_situation;8
+3;Juillet_Printemps;Dentiste;3_situation;8
+6;Juillet_Printemps;Examen médical;6_situation;8
+33;Août_Printemps;Maladie générale;33_situation;2
+18;Août_Printemps;Consultation médicale;18_situation;8
+3;Août_Printemps;Examen médical;3_situation;1
+10;Août_Printemps;Suivi grossesse;10_situation;40
+20;Août_Printemps;Raison diverse;20_situation;4
+11;Août_Printemps;Décès famille;11_situation;8
+10;Août_Printemps;Raison personnelle;10_situation;7
+11;Août_Printemps;Maladie générale;11_situation;1
+30;Août_Printemps;Raison diverse;30_situation;4
+11;Août_Printemps;Décès famille;11_situation;8
+3;Août_Printemps;Maladie générale;3_situation;2
+3;Août_Printemps;Décès famille;3_situation;8
+2;Août_Printemps;Décès famille;2_situation;8
+1;Août_Printemps;Maladie générale;1_situation;4
+2;Août_Printemps;Décès famille;2_situation;8
+3;Août_Printemps;Maladie générale;3_situation;2
+10;Août_Printemps;Maladie générale;10_situation;1
+11;Août_Printemps;Autre médical;11_situation;8
+19;Août_Printemps;Examen médical;19_situation;4
+2;Août_Printemps;Raison diverse;2_situation;8
+20;Août_Printemps;Maladie générale;20_situation;4
+27;Septembre_Printemps;Maladie générale;27_situation;2
+34;Septembre_Printemps;Maladie générale;34_situation;4
+3;Septembre_Printemps;Maladie générale;3_situation;4
+5;Septembre_Printemps;Mariage;5_situation;8
+14;Septembre_Printemps;Maladie générale;14_situation;2
+34;Septembre_Printemps;Maladie générale;34_situation;3
+3;Septembre_Printemps;Maladie générale;3_situation;3
+15;Septembre_Printemps;Maladie générale;15_situation;4
+20;Septembre_Printemps;Examen médical;20_situation;8
+15;Septembre_Hiver;Hospitalisation;15_situation;32
+20;Septembre_Hiver;Aucune absence;20_situation;0
+29;Septembre_Hiver;Aucune absence;29_situation;0
+28;Septembre_Hiver;Maladie générale;28_situation;2
+34;Septembre_Hiver;Maladie générale;34_situation;2
+11;Septembre_Hiver;Aucune absence;11_situation;0
+36;Septembre_Hiver;Aucune absence;36_situation;0
+28;Septembre_Hiver;Décès famille;28_situation;3
+3;Septembre_Hiver;Maladie générale;3_situation;3
+13;Septembre_Hiver;Aucune absence;13_situation;0
+33;Septembre_Hiver;Maladie générale;33_situation;1
+3;Septembre_Hiver;Maladie générale;3_situation;3
+20;Septembre_Hiver;Maladie générale;20_situation;4
+3;Octobre_Hiver;Maladie générale;3_situation;3
+34;Octobre_Hiver;Maladie générale;34_situation;3
+36;Octobre_Hiver;Aucune absence;36_situation;0
+22;Octobre_Hiver;Maladie générale;22_situation;1
+3;Octobre_Hiver;Maladie générale;3_situation;3
+28;Octobre_Hiver;Maladie générale;28_situation;3
+28;Octobre_Hiver;Maladie générale;28_situation;2
+33;Octobre_Hiver;Maladie générale;33_situation;2
+15;Octobre_Hiver;Maladie générale;15_situation;5
+3;Octobre_Hiver;Maladie générale;3_situation;8
+28;Octobre_Hiver;Maladie générale;28_situation;3
+20;Octobre_Hiver;Mariage;20_situation;16
+15;Octobre_Hiver;Hospitalisation;15_situation;8
+28;Octobre_Hiver;Raison diverse;28_situation;2
+11;Octobre_Hiver;Raison familiale;11_situation;8
+10;Octobre_Hiver;Maladie générale;10_situation;1
+20;Octobre_Hiver;Raison diverse;20_situation;3
+3;Novembre_Hiver;Maladie générale;3_situation;1
+28;Novembre_Hiver;Maladie générale;28_situation;1
+3;Novembre_Hiver;Suivi grossesse;3_situation;8
+17;Novembre_Hiver;Dentiste;17_situation;8
+15;Novembre_Hiver;Maladie générale;15_situation;5
+14;Novembre_Hiver;Consultation médicale;14_situation;32
+6;Novembre_Hiver;Examen médical;6_situation;8
+15;Novembre_Hiver;Hospitalisation;15_situation;40
+14;Novembre_Hiver;Maladie psychiatrique;14_situation;8
+28;Novembre_Hiver;Maladie générale;28_situation;3
+17;Novembre_Hiver;Dentiste;17_situation;8
+28;Novembre_Hiver;Suivi grossesse;28_situation;3
+20;Novembre_Hiver;Raison diverse;20_situation;4
+33;Novembre_Hiver;Raison diverse;33_situation;1
+28;Novembre_Hiver;Raison diverse;28_situation;3
+11;Novembre_Hiver;Maladie générale;11_situation;24
+15;Novembre_Hiver;Maladie générale;15_situation;3
+33;Décembre_Hiver;Maladie générale;33_situation;1
+34;Décembre_Hiver;Mariage;34_situation;64
+36;Décembre_Hiver;Maladie générale;36_situation;2
+1;Décembre_Hiver;Raison familiale;1_situation;8
+28;Décembre_Hiver;Maladie générale;28_situation;2
+20;Décembre_Hiver;Raison familiale;20_situation;8
+34;Décembre_Hiver;Mariage;34_situation;56
+10;Décembre_Hiver;Examen médical;10_situation;8
+28;Décembre_Hiver;Raison diverse;28_situation;3
+20;Décembre_Hiver;Raison diverse;20_situation;3
+28;Décembre_Hiver;Maladie générale;28_situation;2
+34;Décembre_Hiver;Raison administrative;34_situation;2
+24;Décembre_Été;Mariage;24_situation;8
+28;Décembre_Été;Maladie générale;28_situation;2
+28;Janvier_Été;Maladie générale;28_situation;1
+34;Janvier_Été;Mariage;34_situation;1
+34;Janvier_Été;Raison administrative;34_situation;1
+14;Janvier_Été;Décès famille;14_situation;8
+28;Janvier_Été;Raison administrative;28_situation;2
+27;Janvier_Été;Maladie générale;27_situation;2
+28;Janvier_Été;Raison diverse;28_situation;2
+28;Janvier_Été;Raison administrative;28_situation;1
+34;Janvier_Été;Raison administrative;34_situation;2
+28;Janvier_Été;Raison administrative;28_situation;2
+34;Janvier_Été;Raison administrative;34_situation;2
+34;Janvier_Été;Raison administrative;34_situation;2
+34;Janvier_Été;Raison administrative;34_situation;2
+34;Janvier_Été;Raison administrative;34_situation;2
+22;Janvier_Été;Décès famille;22_situation;8
+11;Janvier_Été;Décès famille;11_situation;8
+34;Janvier_Été;Raison administrative;34_situation;0
+28;Janvier_Été;Maladie générale;28_situation;1
+11;Janvier_Été;Examen médical;11_situation;3
+27;Février_Été;Maladie générale;27_situation;1
+24;Février_Été;Maladie infectieuse;24_situation;8
+3;Février_Été;Examen médical;3_situation;8
+14;Février_Été;Raison diverse;14_situation;2
+6;Février_Été;Maladie générale;6_situation;8
+20;Février_Été;Raison diverse;20_situation;2
+11;Février_Été;Examen médical;11_situation;8
+31;Février_Été;Examen médical;31_situation;8
+31;Février_Été;Maladie infectieuse;31_situation;8
+28;Février_Été;Raison diverse;28_situation;2
+28;Février_Été;Maladie générale;28_situation;2
+22;Février_Été;Maladie générale;22_situation;1
+27;Février_Été;Maladie générale;27_situation;8
+28;Février_Été;Raison personnelle;28_situation;3
+18;Février_Été;Décès famille;18_situation;8
+18;Février_Été;Maladie générale;18_situation;1
+28;Février_Été;Maladie générale;28_situation;1
+6;Février_Été;Mariage;6_situation;8
+19;Mars_Été;Raison diverse;19_situation;2
+20;Mars_Été;Mariage;20_situation;8
+30;Mars_Été;Mariage;30_situation;3
+17;Mars_Été;Maladie parent;17_situation;8
+15;Mars_Été;Examen médical;15_situation;8
+20;Mars_Été;Suivi grossesse;20_situation;8
+22;Mars_Été;Suivi grossesse;22_situation;8
+33;Mars_Été;Hospitalisation;33_situation;3
+20;Mars_Été;Suivi grossesse;20_situation;40
+17;Mars_Été;Examen médical;17_situation;40
+14;Mars_Été;Maladie infectieuse;14_situation;16
+20;Mars_Été;Raison familiale;20_situation;16
+14;Mars_Été;Suivi grossesse;14_situation;8
+11;Mars_Été;Maladie psychiatrique;11_situation;8
+17;Mars_Été;Accident domestique;17_situation;8
+20;Mars_Été;Raison diverse;20_situation;4
+28;Mars_Été;Maladie générale;28_situation;1
+7;Mars_Été;Hospitalisation;7_situation;8
+3;Mars_Été;Suivi grossesse;3_situation;24
+28;Mars_Été;Maladie générale;28_situation;2
+28;Mars_Automne;Examen médical;28_situation;8
+22;Mars_Automne;Suivi grossesse;22_situation;1
+28;Mars_Automne;Examen médical;28_situation;8
+28;Mars_Automne;Examen médical;28_situation;16
+3;Mars_Automne;Suivi grossesse;3_situation;3
+7;Mars_Automne;Hospitalisation;7_situation;16
+28;Mars_Automne;Raison diverse;28_situation;2
+28;Mars_Automne;Raison diverse;28_situation;1
+15;Avril_Automne;Raison diverse;15_situation;1
+28;Avril_Automne;Maladie générale;28_situation;1
+14;Avril_Automne;Raison diverse;14_situation;1
+24;Avril_Automne;Suivi grossesse;24_situation;24
+14;Avril_Automne;Maladie générale;14_situation;1
+28;Avril_Automne;Raison diverse;28_situation;2
+20;Avril_Automne;Raison diverse;20_situation;4
+3;Avril_Automne;Suivi grossesse;3_situation;24
+36;Avril_Automne;Maladie générale;36_situation;1
+15;Avril_Automne;Maladie générale;15_situation;3
+24;Avril_Automne;Hospitalisation;24_situation;8
+15;Avril_Automne;Raison diverse;15_situation;1
+33;Avril_Automne;Raison diverse;33_situation;8
+20;Avril_Automne;Mariage;20_situation;56
+11;Avril_Automne;Mariage;11_situation;8
+14;Avril_Automne;Soins dentaires;14_situation;24
+23;Avril_Automne;Mariage;23_situation;8
+11;Avril_Automne;Suivi grossesse;11_situation;16
+1;Avril_Automne;Maladie générale;1_situation;3
+2;Avril_Automne;Aucune absence;2_situation;0
+11;Mai_Automne;Suivi grossesse;11_situation;8
+14;Mai_Automne;Raison diverse;14_situation;2
+14;Mai_Automne;Raison diverse;14_situation;1
+3;Mai_Automne;Décès famille;3_situation;8
+28;Mai_Automne;Mariage;28_situation;8
+27;Mai_Automne;Maladie générale;27_situation;4
+14;Mai_Automne;Raison diverse;14_situation;2
+3;Mai_Automne;Soins dentaires;3_situation;1
+11;Mai_Automne;Suivi grossesse;11_situation;24
+7;Mai_Automne;Aucune absence;7_situation;0
+18;Mai_Automne;Aucune absence;18_situation;0
+23;Mai_Automne;Aucune absence;23_situation;0
+31;Mai_Automne;Aucune absence;31_situation;0
+3;Mai_Automne;Examen médical;3_situation;1
+36;Mai_Automne;Suivi grossesse;36_situation;24
+10;Mai_Automne;Examen médical;10_situation;8
+24;Juin_Automne;Mariage;24_situation;8
+10;Juin_Automne;Examen médical;10_situation;8
+24;Juin_Automne;Consultation médicale;24_situation;24
+15;Juin_Automne;Maladie générale;15_situation;4
+24;Juin_Automne;Consultation médicale;24_situation;8
+3;Juin_Automne;Examen médical;3_situation;8
+14;Juin_Automne;Maladie générale;14_situation;4
+24;Juin_Automne;Consultation médicale;24_situation;8
+36;Juin_Automne;Suivi grossesse;36_situation;8
+1;Juin_Automne;Suivi grossesse;1_situation;16
+36;Juin_Automne;Maladie générale;36_situation;1
+36;Juin_Automne;Suivi grossesse;36_situation;80
+23;Juin_Automne;Examen médical;23_situation;8
+3;Juin_Automne;Examen médical;3_situation;2
+32;Juin_Printemps;Raison diverse;32_situation;2
+28;Juin_Printemps;Raison diverse;28_situation;2
+14;Juillet_Printemps;Mariage;14_situation;16
+36;Juillet_Printemps;Maladie infectieuse;36_situation;8
+34;Juillet_Printemps;Maladie neurologique;34_situation;8
+34;Juillet_Printemps;Raison familiale;34_situation;4
+18;Juillet_Printemps;Raison familiale;18_situation;8
+22;Juillet_Printemps;Décès famille;22_situation;8
+14;Juillet_Printemps;Raison personnelle;14_situation;2
+18;Juillet_Printemps;Maladie infectieuse;18_situation;8
+18;Juillet_Printemps;Maladie infectieuse;18_situation;8
+30;Juillet_Printemps;Raison personnelle;30_situation;3
+10;Juillet_Printemps;Examen médical;10_situation;8
+11;Juillet_Printemps;Raison familiale;11_situation;8
+3;Juillet_Printemps;Raison familiale;3_situation;8
+11;Juillet_Printemps;Mariage;11_situation;32
+11;Juillet_Printemps;Mariage;11_situation;8
+20;Juillet_Printemps;Aucune absence;20_situation;0
+11;Août_Printemps;Mariage;11_situation;8
+30;Août_Printemps;Mariage;30_situation;3
+11;Août_Printemps;Maladie générale;11_situation;1
+9;Août_Printemps;Décès famille;9_situation;8
+26;Août_Printemps;Suivi grossesse;26_situation;1
+26;Août_Printemps;Hospitalisation;26_situation;2
+11;Août_Printemps;Maladie générale;11_situation;4
+33;Août_Printemps;Maladie générale;33_situation;1
+21;Août_Printemps;Examen médical;21_situation;8
+22;Août_Printemps;Maladie générale;22_situation;1
+36;Août_Printemps;Suivi grossesse;36_situation;3
+33;Août_Printemps;Raison personnelle;33_situation;2
+1;Août_Printemps;Maladie générale;1_situation;1
+36;Août_Printemps;Maladie générale;36_situation;1
+1;Août_Printemps;Mariage;1_situation;8
+10;Août_Printemps;Accident domestique;10_situation;8
+27;Août_Printemps;Maladie psychiatrique;27_situation;8
+3;Septembre_Printemps;Examen médical;3_situation;8
+11;Septembre_Printemps;Mariage;11_situation;24
+5;Septembre_Printemps;Aucune absence;5_situation;0
+24;Septembre_Printemps;Accident travail;24_situation;16
+15;Septembre_Printemps;Raison diverse;15_situation;3
+8;Septembre_Printemps;Aucune absence;8_situation;0
+19;Septembre_Printemps;Aucune absence;19_situation;0
+3;Septembre_Printemps;Suivi grossesse;3_situation;8
+24;Septembre_Printemps;Accident travail;24_situation;32
+3;Septembre_Printemps;Maladie générale;3_situation;1
+15;Septembre_Printemps;Raison diverse;15_situation;4
+20;Septembre_Printemps;Raison diverse;20_situation;4
+5;Septembre_Hiver;Raison familiale;5_situation;8
+36;Septembre_Hiver;Raison diverse;36_situation;1
+15;Septembre_Hiver;Raison diverse;15_situation;3
+15;Septembre_Hiver;Maladie générale;15_situation;40
+3;Septembre_Hiver;Suivi grossesse;3_situation;8
+11;Octobre_Hiver;Autre médical;11_situation;8
+1;Octobre_Hiver;Raison familiale;1_situation;4
+11;Octobre_Hiver;Raison familiale;11_situation;8
+11;Octobre_Hiver;Examen médical;11_situation;8
+36;Octobre_Hiver;Aucune absence;36_situation;0
+33;Octobre_Hiver;Aucune absence;33_situation;0
+22;Octobre_Hiver;Maladie infectieuse;22_situation;8
+34;Octobre_Hiver;Maladie générale;34_situation;3
+13;Octobre_Hiver;Examen médical;13_situation;8
+3;Octobre_Hiver;Raison diverse;3_situation;1
+22;Octobre_Hiver;Maladie infectieuse;22_situation;64
+5;Octobre_Hiver;Aucune absence;5_situation;0
+11;Octobre_Hiver;Mariage;11_situation;16
+5;Octobre_Hiver;Aucune absence;5_situation;0
+5;Octobre_Hiver;Maladie générale;5_situation;2
+36;Octobre_Hiver;Raison diverse;36_situation;1
+15;Octobre_Hiver;Raison diverse;15_situation;4
+22;Octobre_Hiver;Maladie générale;22_situation;16
+36;Octobre_Hiver;Raison diverse;36_situation;1
+10;Octobre_Hiver;Consultation médicale;10_situation;8
+20;Octobre_Hiver;Aucune absence;20_situation;0
+15;Octobre_Hiver;Aucune absence;15_situation;0
+30;Octobre_Hiver;Aucune absence;30_situation;0
+22;Octobre_Hiver;Maladie infectieuse;22_situation;5
+22;Octobre_Hiver;Maladie générale;22_situation;5
+36;Octobre_Hiver;Maladie générale;36_situation;1
+34;Novembre_Hiver;Examen médical;34_situation;8
+33;Novembre_Hiver;Maladie générale;33_situation;2
+3;Novembre_Hiver;Maladie psychiatrique;3_situation;8
+20;Novembre_Hiver;Raison diverse;20_situation;3
+15;Novembre_Hiver;Maladie générale;15_situation;1
+23;Novembre_Hiver;Maladie infectieuse;23_situation;8
+14;Novembre_Hiver;Examen médical;14_situation;120
+5;Novembre_Hiver;Raison familiale;5_situation;8
+18;Novembre_Hiver;Aucune absence;18_situation;0
+1;Novembre_Hiver;Décès famille;1_situation;1
+34;Novembre_Hiver;Examen médical;34_situation;3
+1;Novembre_Hiver;Raison personnelle;1_situation;2
+3;Novembre_Hiver;Raison diverse;3_situation;3
+24;Novembre_Hiver;Suivi grossesse;24_situation;8
+15;Novembre_Hiver;Soins dentaires;15_situation;4
+24;Novembre_Hiver;Suivi grossesse;24_situation;8
+3;Novembre_Hiver;Raison diverse;3_situation;1
+20;Novembre_Hiver;Consultation médicale;20_situation;8
+20;Novembre_Hiver;Convalescence;20_situation;8
+23;Novembre_Hiver;Aucune absence;23_situation;0
+7;Novembre_Hiver;Aucune absence;7_situation;0
+28;Décembre_Hiver;Soins dentaires;28_situation;3
+3;Décembre_Hiver;Raison diverse;3_situation;2
+3;Décembre_Hiver;Raison diverse;3_situation;1
+1;Décembre_Hiver;Maladie générale;1_situation;3
+36;Décembre_Hiver;Raison diverse;36_situation;1
+20;Décembre_Hiver;Raison diverse;20_situation;4
+24;Décembre_Hiver;Maladie cardiovasculaire;24_situation;8
+3;Décembre_Hiver;Raison diverse;3_situation;1
+3;Décembre_Hiver;Raison diverse;3_situation;1
+22;Décembre_Hiver;Maladie générale;22_situation;1
+34;Décembre_Hiver;Raison personnelle;34_situation;8
+1;Décembre_Hiver;Raison personnelle;1_situation;2
+5;Décembre_Été;Suivi grossesse;5_situation;8
+1;Décembre_Été;Hospitalisation;1_situation;4
+20;Décembre_Été;Raison familiale;20_situation;8
+30;Décembre_Été;Raison diverse;30_situation;2
+3;Décembre_Été;Raison diverse;3_situation;3
+11;Décembre_Été;Mariage;11_situation;8
+28;Janvier_Été;Maladie générale;28_situation;5
+34;Janvier_Été;Mariage;34_situation;32
+14;Janvier_Été;Maladie générale;14_situation;2
+1;Janvier_Été;Suivi grossesse;1_situation;1
+14;Janvier_Été;Maladie générale;14_situation;4
+11;Janvier_Été;Raison familiale;11_situation;8
+15;Janvier_Été;Maladie respiratoire;15_situation;8
+5;Janvier_Été;Raison familiale;5_situation;8
+36;Janvier_Été;Raison familiale;36_situation;4
+3;Janvier_Été;Raison diverse;3_situation;1
+3;Janvier_Été;Raison diverse;3_situation;1
+34;Février_Été;Raison diverse;34_situation;2
+3;Février_Été;Raison administrative;3_situation;3
+11;Février_Été;Examen médical;11_situation;3
+20;Février_Été;Raison diverse;20_situation;3
+3;Février_Été;Maladie générale;3_situation;3
+3;Février_Été;Raison administrative;3_situation;2
+3;Février_Été;Consultation médicale;3_situation;8
+24;Février_Été;Raison familiale;24_situation;8
+3;Février_Été;Raison administrative;3_situation;3
+6;Février_Été;Examen médical;6_situation;8
+3;Février_Été;Raison administrative;3_situation;3
+24;Février_Été;Maladie générale;24_situation;2
+15;Février_Été;Maladie générale;15_situation;2
+30;Février_Été;Examen médical;30_situation;16
+24;Février_Été;Consultation médicale;24_situation;24
+34;Mars_Été;Décès famille;34_situation;8
+24;Mars_Été;Mariage;24_situation;16
+24;Mars_Été;Raison diverse;24_situation;2
+3;Mars_Été;Raison diverse;3_situation;2
+1;Mars_Été;Examen médical;1_situation;8
+17;Mars_Été;Examen médical;17_situation;8
+23;Mars_Été;Examen médical;23_situation;8
+3;Mars_Été;Raison diverse;3_situation;16
+10;Mars_Été;Examen médical;10_situation;8
+13;Mars_Été;Aucune absence;13_situation;0
+1;Mars_Été;Dentiste;1_situation;8
+36;Mars_Automne;Maladie générale;36_situation;2
+36;Mars_Automne;Hospitalisation;36_situation;3
+36;Mars_Automne;Suivi grossesse;36_situation;8
+1;Mars_Automne;Aucune absence;1_situation;0
+24;Mars_Automne;Aucune absence;24_situation;0
+36;Mars_Automne;Aucune absence;36_situation;0
+3;Mars_Automne;Raison diverse;3_situation;8
+11;Mars_Automne;Examen médical;11_situation;8
+20;Mars_Automne;Mariage;20_situation;8
+24;Mars_Automne;Raison diverse;24_situation;2
+3;Avril_Automne;Raison diverse;3_situation;4
+20;Avril_Automne;Raison diverse;20_situation;3
+18;Avril_Automne;Raison familiale;18_situation;4
+13;Avril_Automne;Examen médical;13_situation;4
+33;Avril_Automne;Raison familiale;33_situation;4
+18;Avril_Automne;Maladie générale;18_situation;8
+3;Avril_Automne;Raison diverse;3_situation;8
+36;Avril_Automne;Maladie générale;36_situation;1
+36;Avril_Automne;Suivi grossesse;36_situation;120
+26;Avril_Automne;Raison diverse;26_situation;8
+3;Avril_Automne;Raison diverse;3_situation;4
+34;Avril_Automne;Examen médical;34_situation;2
+5;Mai_Automne;Suivi grossesse;5_situation;16
+33;Mai_Automne;Maladie générale;33_situation;2
+13;Mai_Automne;Consultation médicale;13_situation;8
+22;Mai_Automne;Maladie générale;22_situation;3
+3;Mai_Automne;Raison diverse;3_situation;4
+10;Mai_Automne;Maladie générale;10_situation;1
+20;Mai_Automne;Raison diverse;20_situation;3
+17;Mai_Automne;Examen médical;17_situation;2
+17;Mai_Automne;Accident domestique;17_situation;3
+9;Mai_Automne;Décès famille;9_situation;8
+28;Mai_Automne;Raison personnelle;28_situation;3
+18;Mai_Automne;Suivi grossesse;18_situation;8
+22;Mai_Automne;Raison personnelle;22_situation;2
+34;Mai_Automne;Raison diverse;34_situation;1
+1;Mai_Automne;Maladie infectieuse;1_situation;8
+34;Juin_Automne;Maladie générale;34_situation;3
+3;Juin_Automne;Raison diverse;3_situation;3
+34;Juin_Automne;Raison diverse;34_situation;2
+28;Juin_Automne;Maladie générale;28_situation;4
+20;Juin_Automne;Raison diverse;20_situation;4
+3;Juin_Automne;Aucune absence;3_situation;0
+15;Juin_Automne;Suivi grossesse;15_situation;40
+3;Juin_Automne;Raison diverse;3_situation;24
+24;Juin_Automne;Raison diverse;24_situation;3
+3;Juin_Automne;Raison diverse;3_situation;4
+5;Juin_Automne;Raison familiale;5_situation;8
+3;Juin_Printemps;Raison diverse;3_situation;2
+28;Juin_Printemps;Maladie générale;28_situation;2
+36;Juin_Printemps;Maladie générale;36_situation;2
+3;Juin_Printemps;Maladie neurologique;3_situation;8
+22;Juin_Printemps;Dentiste;22_situation;2
+24;Juin_Printemps;Raison diverse;24_situation;2
+18;Juin_Printemps;Examen médical;18_situation;1
+1;Juin_Printemps;Suivi grossesse;1_situation;8
+22;Juillet_Printemps;Maladie générale;22_situation;2
+28;Juillet_Printemps;Raison personnelle;28_situation;4
+20;Juillet_Printemps;Suivi grossesse;20_situation;8
+21;Juillet_Printemps;Maladie générale;21_situation;8
+18;Juillet_Printemps;Raison personnelle;18_situation;8
+34;Juillet_Printemps;Raison familiale;34_situation;8
+20;Juillet_Printemps;Raison familiale;20_situation;4
+34;Juillet_Printemps;Raison diverse;34_situation;8
+26;Juillet_Printemps;Convalescence;26_situation;8
+2;Juillet_Printemps;Maladie générale;2_situation;1
+24;Juillet_Printemps;Raison diverse;24_situation;2
+28;Juillet_Printemps;Accident travail;28_situation;112
+3;Juillet_Printemps;Raison diverse;3_situation;1
+36;Juillet_Printemps;Maladie générale;36_situation;1
+11;Juillet_Printemps;Examen médical;11_situation;8
+5;Juillet_Printemps;Raison familiale;5_situation;8
+15;Juillet_Printemps;Raison diverse;15_situation;1
+7;Juillet_Printemps;Maladie générale;7_situation;2
+3;Août_Printemps;Raison personnelle;3_situation;4
+17;Août_Printemps;Raison personnelle;17_situation;1
+24;Août_Printemps;Raison diverse;24_situation;4
+34;Août_Printemps;Raison diverse;34_situation;4
+11;Août_Printemps;Raison familiale;11_situation;8
+5;Août_Printemps;Raison familiale;5_situation;8
+15;Août_Printemps;Raison diverse;15_situation;4
+3;Août_Printemps;Raison personnelle;3_situation;4
+17;Août_Printemps;Raison personnelle;17_situation;8
+18;Août_Printemps;Maladie générale;18_situation;16
+1;Août_Printemps;Maladie générale;1_situation;4
+24;Août_Printemps;Raison diverse;24_situation;1
+34;Août_Printemps;Raison diverse;34_situation;5
+15;Août_Printemps;Raison diverse;15_situation;2
+20;Août_Printemps;Raison diverse;20_situation;3
+24;Septembre_Printemps;Raison diverse;24_situation;1
+34;Septembre_Printemps;Raison diverse;34_situation;3
+14;Septembre_Printemps;Maladie générale;14_situation;2
+15;Septembre_Printemps;Raison diverse;15_situation;2
+22;Septembre_Printemps;Maladie générale;22_situation;8
+3;Septembre_Printemps;Maladie générale;3_situation;4
+28;Septembre_Printemps;Maladie générale;28_situation;1
+22;Septembre_Printemps;Maladie générale;22_situation;2
+13;Septembre_Hiver;Maladie générale;13_situation;8
+10;Septembre_Hiver;Examen médical;10_situation;8
+32;Octobre_Hiver;Maladie cardiovasculaire;32_situation;1
+25;Octobre_Hiver;Examen médical;25_situation;3
+24;Octobre_Hiver;Raison familiale;24_situation;8
+32;Octobre_Hiver;Hospitalisation;32_situation;3
+15;Octobre_Hiver;Raison diverse;15_situation;2
+34;Octobre_Hiver;Maladie générale;34_situation;2
+32;Octobre_Hiver;Maladie générale;32_situation;2
+15;Octobre_Hiver;Maladie générale;15_situation;1
+28;Octobre_Hiver;Maladie générale;28_situation;2
+13;Octobre_Hiver;Maladie générale;13_situation;8
+13;Octobre_Hiver;Maladie générale;13_situation;3
+28;Octobre_Hiver;Maladie générale;28_situation;4
+13;Octobre_Hiver;Raison familiale;13_situation;8
+3;Octobre_Hiver;Raison diverse;3_situation;3
+9;Octobre_Hiver;Maladie infectieuse;9_situation;1
+15;Octobre_Hiver;Maladie générale;15_situation;1
+13;Octobre_Hiver;Consultation médicale;13_situation;8
+28;Octobre_Hiver;Suivi grossesse;28_situation;1
+13;Octobre_Hiver;Consultation médicale;13_situation;8
+28;Octobre_Hiver;Consultation médicale;28_situation;3
+6;Octobre_Hiver;Maladie générale;6_situation;8
+25;Octobre_Hiver;Maladie psychiatrique;25_situation;8
+33;Octobre_Hiver;Consultation médicale;33_situation;8
+28;Octobre_Hiver;Aucune absence;28_situation;0
+28;Octobre_Hiver;Suivi grossesse;28_situation;3
+3;Novembre_Hiver;Dentiste;3_situation;1
+34;Novembre_Hiver;Raison diverse;34_situation;3
+18;Novembre_Hiver;Maladie digestive;18_situation;24
+3;Novembre_Hiver;Raison diverse;3_situation;1
+34;Novembre_Hiver;Accident travail;34_situation;8
+11;Novembre_Hiver;Autre médical;11_situation;8
+25;Novembre_Hiver;Maladie infectieuse;25_situation;8
+28;Novembre_Hiver;Maladie générale;28_situation;4
+10;Novembre_Hiver;Examen médical;10_situation;8
+15;Novembre_Hiver;Raison diverse;15_situation;2
+34;Novembre_Hiver;Suivi grossesse;34_situation;2
+28;Novembre_Hiver;Hospitalisation;28_situation;3
+3;Novembre_Hiver;Raison diverse;3_situation;1
+34;Novembre_Hiver;Maladie générale;34_situation;8
+34;Novembre_Hiver;Accident domestique;34_situation;8
+28;Novembre_Hiver;Maladie générale;28_situation;2
+15;Novembre_Hiver;Aucune absence;15_situation;0
+11;Novembre_Hiver;Aucune absence;11_situation;0
+33;Novembre_Hiver;Hospitalisation;33_situation;4
+5;Novembre_Hiver;Aucune absence;5_situation;0
+28;Novembre_Hiver;Maladie générale;28_situation;2
+13;Novembre_Hiver;Raison familiale;13_situation;8
+10;Novembre_Hiver;Raison diverse;10_situation;2
+3;Décembre_Hiver;Suivi grossesse;3_situation;32
+15;Décembre_Hiver;Raison diverse;15_situation;1
+28;Décembre_Hiver;Maladie générale;28_situation;3
+22;Décembre_Hiver;Suivi grossesse;22_situation;1
+28;Décembre_Hiver;Maladie générale;28_situation;3
+10;Décembre_Hiver;Hospitalisation;10_situation;4
+17;Décembre_Hiver;Décès famille;17_situation;2
+5;Décembre_Hiver;Raison familiale;5_situation;8
+12;Décembre_Hiver;Décès famille;12_situation;8
+22;Décembre_Hiver;Suivi grossesse;22_situation;16
+28;Décembre_Hiver;Maladie générale;28_situation;3
+28;Décembre_Hiver;Maladie générale;28_situation;2
+14;Décembre_Été;Décès famille;14_situation;80
+22;Janvier_Été;Soins dentaires;22_situation;24
+22;Janvier_Été;Soins dentaires;22_situation;16
+17;Janvier_Été;Raison personnelle;17_situation;2
+17;Janvier_Été;Raison personnelle;17_situation;2
+22;Janvier_Été;Suivi grossesse;22_situation;3
+17;Janvier_Été;Raison personnelle;17_situation;2
+32;Janvier_Été;Consultation médicale;32_situation;8
+17;Janvier_Été;Décès famille;17_situation;3
+22;Janvier_Été;Raison administrative;22_situation;2
+22;Janvier_Été;Raison administrative;22_situation;2
+3;Janvier_Été;Raison administrative;3_situation;3
+11;Janvier_Été;Suivi grossesse;11_situation;8
+3;Janvier_Été;Raison administrative;3_situation;3
+3;Janvier_Été;Raison administrative;3_situation;2
+3;Février_Été;Suivi grossesse;3_situation;8
+28;Février_Été;Maladie générale;28_situation;3
+33;Février_Été;Maladie infectieuse;33_situation;8
+3;Février_Été;Raison administrative;3_situation;2
+28;Février_Été;Raison diverse;28_situation;3
+3;Février_Été;Raison administrative;3_situation;2
+22;Février_Été;Raison administrative;22_situation;2
+29;Février_Été;Raison diverse;29_situation;2
+3;Février_Été;Raison administrative;3_situation;2
+12;Février_Été;Mariage;12_situation;2
+28;Février_Été;Maladie générale;28_situation;8
+3;Février_Été;Raison administrative;3_situation;3
+22;Février_Été;Suivi grossesse;22_situation;2
+17;Février_Été;Maladie générale;17_situation;2
+12;Février_Été;Soins dentaires;12_situation;3
+22;Février_Été;Raison administrative;22_situation;2
+3;Février_Été;Suivi grossesse;3_situation;8
+14;Février_Été;Raison personnelle;14_situation;5
+25;Février_Été;Raison personnelle;25_situation;3
+28;Février_Été;Maladie générale;28_situation;2
+3;Février_Été;Raison administrative;3_situation;2
+33;Février_Été;Maladie générale;33_situation;2
+28;Février_Été;Raison personnelle;28_situation;2
+25;Février_Été;Raison personnelle;25_situation;2
+3;Mars_Été;Raison administrative;3_situation;2
+33;Mars_Été;Maladie générale;33_situation;2
+9;Mars_Été;Raison personnelle;9_situation;3
+33;Mars_Été;Raison personnelle;33_situation;3
+9;Mars_Été;Soins dentaires;9_situation;112
+3;Mars_Été;Raison administrative;3_situation;2
+28;Mars_Été;Raison administrative;28_situation;2
+3;Mars_Été;Raison administrative;3_situation;3
+28;Mars_Été;Raison personnelle;28_situation;2
+22;Mars_Été;Raison administrative;22_situation;3
+25;Mars_Été;Raison personnelle;25_situation;3
+10;Mars_Été;Mariage;10_situation;8
+3;Mars_Été;Suivi grossesse;3_situation;8
+22;Mars_Été;Raison administrative;22_situation;2
+3;Mars_Été;Consultation médicale;3_situation;4
+33;Mars_Été;Suivi grossesse;33_situation;2
+3;Mars_Été;Raison administrative;3_situation;3
+28;Mars_Été;Maladie générale;28_situation;8
+3;Mars_Été;Raison administrative;3_situation;2
+11;Mars_Été;Maladie générale;11_situation;8
+9;Mars_Été;Raison personnelle;9_situation;2
+33;Mars_Été;Maladie générale;33_situation;3
+22;Mars_Été;Maladie générale;22_situation;2
+3;Mars_Été;Raison administrative;3_situation;3
+3;Mars_Automne;Raison administrative;3_situation;3
+16;Mars_Automne;Maladie générale;16_situation;8
+14;Mars_Automne;Suivi grossesse;14_situation;24
+3;Mars_Automne;Raison administrative;3_situation;3
+22;Mars_Automne;Suivi grossesse;22_situation;2
+11;Mars_Automne;Mariage;11_situation;104
+13;Mars_Automne;Examen médical;13_situation;8
+28;Avril_Automne;Suivi grossesse;28_situation;8
+34;Avril_Automne;Consultation médicale;34_situation;8
+10;Avril_Automne;Mariage;10_situation;8
+33;Avril_Automne;Mariage;33_situation;8
+6;Avril_Automne;Suivi grossesse;6_situation;8
+22;Avril_Automne;Raison administrative;22_situation;2
+13;Avril_Automne;Maladie générale;13_situation;24
+17;Avril_Automne;Maladie enfant;17_situation;2
+36;Avril_Automne;Maladie générale;36_situation;3
+10;Avril_Automne;Maladie générale;10_situation;2
+34;Avril_Automne;Consultation médicale;34_situation;2
+1;Avril_Automne;Examen médical;1_situation;8
+28;Avril_Automne;Mariage;28_situation;8
+25;Avril_Automne;Maladie enfant;25_situation;3
+14;Avril_Automne;Raison diverse;14_situation;4
+28;Avril_Automne;Mariage;28_situation;8
+36;Avril_Automne;Hospitalisation;36_situation;2
+1;Mai_Automne;Examen médical;1_situation;8
+29;Mai_Automne;Mariage;29_situation;3
+25;Mai_Automne;Raison diverse;25_situation;2
+34;Mai_Automne;Accident domestique;34_situation;3
+5;Mai_Automne;Raison familiale;5_situation;8
+22;Mai_Automne;Suivi grossesse;22_situation;1
+15;Mai_Automne;Raison diverse;15_situation;2
+29;Mai_Automne;Hospitalisation;29_situation;8
+26;Mai_Automne;Mariage;26_situation;64
+29;Mai_Automne;Examen médical;29_situation;8
+22;Mai_Automne;Raison administrative;22_situation;2
+36;Mai_Automne;Maladie générale;36_situation;2
+36;Mai_Automne;Maladie neurologique;36_situation;3
+34;Mai_Automne;Raison diverse;34_situation;1
+36;Mai_Automne;Aucune absence;36_situation;0
+22;Mai_Automne;Raison administrative;22_situation;2
+17;Mai_Automne;Maladie enfant;17_situation;1
+14;Mai_Automne;Consultation médicale;14_situation;48
+25;Mai_Automne;Consultation médicale;25_situation;8
+15;Mai_Automne;Examen médical;15_situation;8
+17;Mai_Automne;Consultation médicale;17_situation;8
+28;Mai_Automne;Maladie psychiatrique;28_situation;3
+18;Mai_Automne;Consultation médicale;18_situation;8
+25;Mai_Automne;Maladie générale;25_situation;2
+10;Mai_Automne;Maladie générale;10_situation;8
+14;Mai_Automne;Maladie générale;14_situation;2
+17;Mai_Automne;Raison personnelle;17_situation;8
+14;Mai_Automne;Consultation médicale;14_situation;8
+28;Mai_Automne;Examen médical;28_situation;1
+16;Juin_Automne;Maladie générale;16_situation;8
+22;Juin_Automne;Raison administrative;22_situation;3
+34;Juin_Automne;Raison familiale;34_situation;8
+34;Juin_Automne;Consultation médicale;34_situation;8
+36;Juin_Automne;Mariage;36_situation;24
+12;Juin_Automne;Mariage;12_situation;8
+22;Juin_Automne;Raison administrative;22_situation;2
+2;Juin_Automne;Aucune absence;2_situation;0
+21;Juin_Automne;Aucune absence;21_situation;0
+36;Juin_Automne;Mariage;36_situation;3
+22;Juin_Automne;Suivi grossesse;22_situation;2
+15;Juin_Automne;Raison diverse;15_situation;2
+22;Juin_Printemps;Suivi grossesse;22_situation;3
+34;Juin_Printemps;Raison personnelle;34_situation;3
+12;Juin_Printemps;Examen médical;12_situation;8
+34;Juin_Printemps;Accident domestique;34_situation;2
+34;Juin_Printemps;Consultation médicale;34_situation;3
+12;Juin_Printemps;Examen médical;12_situation;3
+5;Juillet_Printemps;Raison familiale;5_situation;4
+12;Juillet_Printemps;Mariage;12_situation;2
+9;Juillet_Printemps;Maladie psychiatrique;9_situation;8
+34;Juillet_Printemps;Raison diverse;34_situation;4
+9;Juillet_Printemps;Maladie psychiatrique;9_situation;120
+6;Juillet_Printemps;Examen médical;6_situation;16
+34;Juillet_Printemps;Maladie générale;34_situation;2
+10;Juillet_Printemps;Examen médical;10_situation;8
+28;Juillet_Printemps;Examen médical;28_situation;8
+13;Juillet_Printemps;Suivi grossesse;13_situation;80
+11;Juillet_Printemps;Hospitalisation;11_situation;8
+1;Juillet_Printemps;Examen médical;1_situation;4
